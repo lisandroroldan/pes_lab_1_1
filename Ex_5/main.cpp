@@ -41,7 +41,7 @@ using namespace std;
     cin>>E;
     cout<<"maxiter?"<<endl;
     cin>>maxiter;
-    cout<<"Initial approximation x=?";
+    cout<<"Initial approximation x0=?";
     cin>>x;
 
     k=1;
