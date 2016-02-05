@@ -16,11 +16,11 @@
 
 //Main excersice
 
-float fx(float x)
+double fx(double x)
 {
   return sin(x);
 }
-float dfx(float x)
+double dfx(double x)
 {
   return cos(x);
 }
